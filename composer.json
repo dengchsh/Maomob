@@ -1,0 +1,19 @@
+{
+    "name": "dcs/maomob",
+    "description": "Panda mobile interface docking",
+    "type": "library",
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Dcs\\Maomob\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "panda"
+        }
+    ],
+    "minimum-stability": "dev"
+}
