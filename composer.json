@@ -1,5 +1,5 @@
 {
-    "name": "dcs/maomob",
+    "name": "dcs/Maomob",
     "description": "Panda mobile interface docking",
     "type": "library",
     "require": {
